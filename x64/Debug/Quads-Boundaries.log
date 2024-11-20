@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Computer_Programing\3DDev\Opengl\Quads-Boundaries\main.cpp(209,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Quads-Boundaries.vcxproj -> C:\Computer_Programing\3DDev\Opengl\Quads-Boundaries\x64\Debug\Quads-Boundaries.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
